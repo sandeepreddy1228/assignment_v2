@@ -38,7 +38,7 @@ public class CustomerController {
 		customer.setCustomerId(12345);
 		customer.setCardNumber("123456678");
 		customer.setCvv(123);
-		customer.setCustomerName("raju");
+		customer.setCustomerName("reddy");
 		
 		return customer;
 	}
